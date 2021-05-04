@@ -4,7 +4,7 @@
 #### About me 
 * Current student at Western University taking synthetic biology and computer science. :shell:
 
-* Learning about mobile app development, currently working on an Open Sourced Athan Project I call Arehna :first_quarter_moon_with_fac:
+* Learning about mobile app development, currently working on an Open Sourced Athan Project I call Arehna :first_quarter_moon_with_face:
 
 * I'm interested in Machine learning and Artifical intelligence, albeit only at a distance for now :sleeping:
 
