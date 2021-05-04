@@ -1,4 +1,4 @@
-### Salam! My name is Ammar.
+### Salam! My name is Ammar. :wave:
 ---
 
 #### About me 
