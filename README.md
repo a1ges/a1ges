@@ -8,7 +8,7 @@
 
 * I'm interested in Machine learning and Artifical intelligence, albeit only at a distance for now :sleeping:
 
-* Enjoy automatic boring tasks to make my day easier. :snowflake:
+* Enjoy automatating boring tasks to make my day easier. :snowflake:
 
 * Enjoy privacy respecting apps and FOSS, with a strong belief in ethical practices and a healthier internet. :triumph:
 
